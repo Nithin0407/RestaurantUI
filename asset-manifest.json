@@ -1,0 +1,41 @@
+{
+  "files": {
+    "main.css": "/RestaurantUI/static/css/main.dc65d9e1.chunk.css",
+    "main.js": "/RestaurantUI/static/js/main.4a062c03.chunk.js",
+    "main.js.map": "/RestaurantUI/static/js/main.4a062c03.chunk.js.map",
+    "runtime-main.js": "/RestaurantUI/static/js/runtime-main.7c1c0aab.js",
+    "runtime-main.js.map": "/RestaurantUI/static/js/runtime-main.7c1c0aab.js.map",
+    "static/js/2.a766e07b.chunk.js": "/RestaurantUI/static/js/2.a766e07b.chunk.js",
+    "static/js/2.a766e07b.chunk.js.map": "/RestaurantUI/static/js/2.a766e07b.chunk.js.map",
+    "index.html": "/RestaurantUI/index.html",
+    "static/css/main.dc65d9e1.chunk.css.map": "/RestaurantUI/static/css/main.dc65d9e1.chunk.css.map",
+    "static/js/2.a766e07b.chunk.js.LICENSE.txt": "/RestaurantUI/static/js/2.a766e07b.chunk.js.LICENSE.txt",
+    "static/media/G.b571eb82.png": "/RestaurantUI/static/media/G.b571eb82.png",
+    "static/media/award01.361a4bc4.png": "/RestaurantUI/static/media/award01.361a4bc4.png",
+    "static/media/award02.8bbdd514.png": "/RestaurantUI/static/media/award02.8bbdd514.png",
+    "static/media/award03.3f7ee934.png": "/RestaurantUI/static/media/award03.3f7ee934.png",
+    "static/media/award05.48a7f520.png": "/RestaurantUI/static/media/award05.48a7f520.png",
+    "static/media/App.css": "/RestaurantUI/static/media/bg.3d421b1b.png",
+    "static/media/chef.02d6c5b6.png": "/RestaurantUI/static/media/chef.02d6c5b6.png",
+    "static/media/findus.585c393c.png": "/RestaurantUI/static/media/findus.585c393c.png",
+    "static/media/gallery01.f2cbffe3.png": "/RestaurantUI/static/media/gallery01.f2cbffe3.png",
+    "static/media/gallery02.27663bd9.png": "/RestaurantUI/static/media/gallery02.27663bd9.png",
+    "static/media/gallery03.b2d50180.png": "/RestaurantUI/static/media/gallery03.b2d50180.png",
+    "static/media/gallery04.c36a695f.png": "/RestaurantUI/static/media/gallery04.c36a695f.png",
+    "static/media/knife.1121c0a5.png": "/RestaurantUI/static/media/knife.1121c0a5.png",
+    "static/media/laurels.e7608286.png": "/RestaurantUI/static/media/laurels.e7608286.png",
+    "static/media/logo.0286194c.png": "/RestaurantUI/static/media/logo.0286194c.png",
+    "static/media/meal.a1b6c6dc.mp4": "/RestaurantUI/static/media/meal.a1b6c6dc.mp4",
+    "static/media/menu.a8287c67.png": "/RestaurantUI/static/media/menu.a8287c67.png",
+    "static/media/overlaybg.165362ee.png": "/RestaurantUI/static/media/overlaybg.165362ee.png",
+    "static/media/sign.9bf0bd90.png": "/RestaurantUI/static/media/sign.9bf0bd90.png",
+    "static/media/spoon.d079f43f.svg": "/RestaurantUI/static/media/spoon.d079f43f.svg",
+    "static/media/welcome.d724eb98.png": "/RestaurantUI/static/media/welcome.d724eb98.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7c1c0aab.js",
+    "static/js/2.a766e07b.chunk.js",
+    "static/css/main.dc65d9e1.chunk.css",
+    "static/js/main.4a062c03.chunk.js"
+  ]
+}
