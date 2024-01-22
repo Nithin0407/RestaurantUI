@@ -27,6 +27,6 @@
   ],
   "variables": {
     "webAppName": "Nithinwebapp",  // Replace with your desired web app name
-    "appServicePlanName": "Nithinwebapp"  // Replace with your desired app service plan name
+    "appServicePlanName": "Default1ua"  // Replace with your desired app service plan name
   }
 }
