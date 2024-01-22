@@ -3,7 +3,7 @@
   "contentVersion": "1.0.0.0",
   "parameters": {
     "webAppName": {
-      "value": "restaurantui"  // Replace with your desired web app name
+      "value": "Nithinwebapp"  // Replace with your desired web app name
     },
     "appServicePlanName": {
       "value": "Nithinwebapp"  // Replace with your desired app service plan name
