@@ -3,10 +3,10 @@
   "contentVersion": "1.0.0.0",
   "parameters": {
     "webAppName": {
-      "value": "yourWebAppName"  // Replace with your desired web app name
+      "value": "nodejsapp"  // Replace with your desired web app name
     },
     "appServicePlanName": {
-      "value": "yourAppServicePlanName"  // Replace with your desired app service plan name
+      "value": "Free F1"  // Replace with your desired app service plan name
     },
     "nodeJsVersion": {
       "value": "14.17.4"  // Change to your desired Node.js version
