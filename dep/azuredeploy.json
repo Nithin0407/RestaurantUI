@@ -27,6 +27,6 @@
   ],
   "variables": {
     "webAppName": "nodejsapp",  // Replace with your desired web app name
-    "appServicePlanName": "Free F1"  // Replace with your desired app service plan name
+    "appServicePlanName": "webapp"  // Replace with your desired app service plan name
   }
 }
