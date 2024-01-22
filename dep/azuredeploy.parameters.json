@@ -6,7 +6,7 @@
       "value": "nodejsapp"  // Replace with your desired web app name
     },
     "appServicePlanName": {
-      "value": "Free F1"  // Replace with your desired app service plan name
+      "value": "webapp"  // Replace with your desired app service plan name
     },
     "nodeJsVersion": {
       "value": "14.17.4"  // Change to your desired Node.js version
