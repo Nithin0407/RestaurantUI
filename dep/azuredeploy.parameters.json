@@ -9,7 +9,7 @@
       "value": "Nithinwebapp"  // Replace with your desired app service plan name
     },
     "nodeJsVersion": {
-      "value": "14.17.4"  // Change to your desired Node.js version
+      "value": "20.01.01"  // Change to your desired Node.js version
     }
   }
 }
