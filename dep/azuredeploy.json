@@ -26,7 +26,7 @@
     }
   ],
   "variables": {
-    "webAppName": "nodejsapp",  // Replace with your desired web app name
-    "appServicePlanName": "Webapp"  // Replace with your desired app service plan name
+    "webAppName": "RestaurantUI",  // Replace with your desired web app name
+    "appServicePlanName": "Nithinwebapp"  // Replace with your desired app service plan name
   }
 }
